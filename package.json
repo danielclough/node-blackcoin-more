@@ -1,0 +1,22 @@
+{
+  "name": "node-blackcoin-more",
+  "description": "Communicate with blackmored via JSON-RPC",
+  "version": "2.13.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "blackcoin",
+    "blackcoin-more",
+    "rpc"
+  ],
+  "author": "Daniel Clough <danielclough@gmail.com>",
+  "dependencies": {
+    "deprecate": "~0.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danielclough/node-blackcoin-more.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
